@@ -5,5 +5,5 @@
 ### -path= /_path to your image ( png / jpeg / jpg ) _/
 
 ### go run main.go -path=path/to/your/image/meme.png
-                     or
+####                     or
 ### ./png2ascii -path=path/to/your/image/meme.png                     
